@@ -60,7 +60,7 @@ class MyHomePage extends StatelessWidget {
                   '김성현',
                   style: TextStyle(fontSize: 30, fontWeight: FontWeight.bold),
                 ),
-                Text('롯데 자이언츠 가을 야구 갑니다.')
+                Text('롯데 자이언츠 가을 야구 갈 수 있을까요.')
               ],
             )
           ],
